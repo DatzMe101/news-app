@@ -1,0 +1,14 @@
+$primary-color: #3499ff;
+.news-app {
+  .app-header {
+    padding-top: 10px;
+    text-align: center;
+    color: $primary-color;
+  }
+  .result-title {
+    font-weight: bold;
+  }
+  .ui.items > .item > .content > a.header.header-link {
+    color: $primary-color;
+  }
+}
